@@ -52,6 +52,12 @@ input[type=submit]
     align-items: center;
 }
 
+.languages.row.col
+{
+    padding: 20px;
+    margin: 20px;
+}
+
 
 
 
