@@ -1,0 +1,23 @@
+*
+{
+    box-sizing: border-box;
+}
+
+.subtitle
+{
+    text-align: center;
+    padding: 15px 0;
+}
+
+.services img
+{
+    width: 100%;
+}
+
+.languages.container.row.col img
+{
+    200px
+}
+
+
+
